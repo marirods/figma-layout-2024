@@ -30,4 +30,4 @@ Site do tipo landing page para divulgar as opções deliciosas de café, com um 
 
 
 ## Autor
--[Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues)
+-[Mariane Rodrigues] (www.linkedin.com/in/rodrigues-mariane)
